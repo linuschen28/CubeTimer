@@ -1,0 +1,10 @@
+{
+    "time-list": [
+        {"time": 12.21},
+        {"time": 13.41},
+        {"time": 23.12},
+        {"time": 31.21},
+        {"time": 12.32}
+    ],
+    "name": "Cube Timer"
+}
